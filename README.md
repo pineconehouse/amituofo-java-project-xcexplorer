@@ -65,11 +65,11 @@ You can download the last release [here](#https://github.com/pineconehouse/amitu
 ![Screenshot-](screenshots/Screenshot-Statistic-Folder-Size.png)
 ---
 ## Screenshot-Inner Viewer-View Binary File 
-![Screenshot-](screenshots/Screenshot-Inner Viewer-View-Binary-File.png)
+![Screenshot-](screenshots/Screenshot-Inner-Viewer-View-Binary-File.png)
 ## Screenshot-Inner Viewer-View CSV as table
-![Screenshot-](screenshots/Screenshot-Inner Viewer-View-CSV-As-Table.png)
+![Screenshot-](screenshots/Screenshot-Inner-Viewer-View-CSV-As-Table.png)
 ## Screenshot-Inner Viewer-View Images
-![Screenshot-](screenshots/Screenshot-Inner Viewer-View-Images.png)
+![Screenshot-](screenshots/Screenshot-Inner-Viewer-View-Images.png)
 ---
 ## Screenshot-Screenshot-Preference-MISC
 ![Screenshot-](screenshots/Screenshot-Preference-MISC.png)
