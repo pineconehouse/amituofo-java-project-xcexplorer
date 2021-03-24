@@ -1,6 +1,10 @@
 # X Content Explorer
 The design goal is a tool that can access, manage and connect any file system as a simple data management software. The transmission of file is not limited to local disk, but can be carried out directly between various file systems.
 Support online view, online editing, directory comparison, cache acceleration, directory size statistics, and so on a series of functions
+This tools is still under development and will support more file system interfaces in the future, as well as to integration of another automatic incremental file synchronization service.
+You can download the last release [here](#)
+
+___If you find any bugs or desired features, I would be very glad to receive your suggestions！___
 
 ## Support File System - so far
 ```
