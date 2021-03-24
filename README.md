@@ -10,7 +10,7 @@ You can download the last release [HERE](https://github.com/pineconehouse/amituo
 ***If you find any bugs or desired features, I would be very glad to hear your voice***
 
 ## Support File System - so far
-```
+
  + Hitachi Content Platform (HCP) [***Private Functionality Supported***]
  + Hitachi Content Platform for Cloud Scale (HCP-CS)
  + HCP Metadata Query Engine (MQE)
@@ -26,7 +26,7 @@ You can download the last release [HERE](https://github.com/pineconehouse/amituo
  + Web-based Distributed Authoring and Versioning File System (WebDav)
  + Memory File System
  + Virtual File System (Simulate by Database)
- ```
+ 
  
  ---
 ## Screenshot-Access-HCP-In-Professional-View
