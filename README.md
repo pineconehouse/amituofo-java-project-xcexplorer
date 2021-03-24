@@ -39,7 +39,7 @@ Support online view, online editing, directory comparison, cache acceleration, d
 ## Screenshot-HCP-Object-Properties
 ![Screenshot-](screenshots/Screenshot-HCP-Object-Properties.png)
 ---
-## Screenshot-Screenshot-Toatl-View
+## Screenshot-Toatl-View
 ![Screenshot-](screenshots/Screenshot-Toatl-View.png)
 ---
 ## Screenshot-Access-S3-Storage
@@ -60,12 +60,12 @@ Support online view, online editing, directory comparison, cache acceleration, d
 ## Screenshot-Statistic-Folder-Size
 ![Screenshot-](screenshots/Screenshot-Statistic-Folder-Size.png)
 ---
-## Screenshot-Inner Viewer-View Binary File
-![Screenshot-](screenshots/Screenshot-Inner Viewer-View Binary File.png)
+## Screenshot-Inner Viewer-View Binary File 
+![Screenshot-](screenshots/Screenshot-Inner Viewer-View-Binary-File.png)
 ## Screenshot-Inner Viewer-View CSV as table
-![Screenshot-](screenshots/Screenshot-Inner Viewer-View CSV as table.png)
+![Screenshot-](screenshots/Screenshot-Inner Viewer-View-CSV-As-Table.png)
 ## Screenshot-Inner Viewer-View Images
-![Screenshot-](screenshots/Screenshot-Inner Viewer-View Images.png)
+![Screenshot-](screenshots/Screenshot-Inner Viewer-View-Images.png)
 ---
 ## Screenshot-Screenshot-Preference-MISC
 ![Screenshot-](screenshots/Screenshot-Preference-MISC.png)
