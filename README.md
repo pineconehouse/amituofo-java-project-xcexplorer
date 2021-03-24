@@ -1,10 +1,13 @@
 # X Content Explorer
 The design goal is a tool that can access, manage and connect any file system as a simple data management software. The transmission of file is not limited to local disk, but can be carried out directly between various file systems.
 Support online view, online editing, directory comparison, cache acceleration, directory size statistics, and so on a series of functions
-This tools is still under development and will support more file system interfaces in the future, as well as to integration of another automatic incremental file synchronization service.
-You can download the last release [here](#)
+This tools is still under development and will support more file system interfaces in the future, Another automatic incremental file synchronization service will be marged soon.
 
-___If you find any bugs or desired features, I would be very glad to receive your suggestions！___
+This program was written by java/swing and can executed in windows/linux/mac that any OS with at least java 1.8 installed.
+
+You can download the last release [here](https://github.com/pineconehouse/amituofo-java-project-xcexplorer/releases/new)
+
+***If you find any bugs or desired features, I would be very glad to hear your voice***
 
 ## Support File System - so far
 ```
@@ -65,11 +68,11 @@ ___If you find any bugs or desired features, I would be very glad to receive you
 ![Screenshot-](screenshots/Screenshot-Statistic-Folder-Size.png)
 ---
 ## Screenshot-Inner Viewer-View Binary File 
-![Screenshot-](screenshots/Screenshot-Inner Viewer-View-Binary-File.png)
+![Screenshot-](screenshots/Screenshot-Inner-Viewer-View-Binary-File.png)
 ## Screenshot-Inner Viewer-View CSV as table
-![Screenshot-](screenshots/Screenshot-Inner Viewer-View-CSV-As-Table.png)
+![Screenshot-](screenshots/Screenshot-Inner-Viewer-View-CSV-As-Table.png)
 ## Screenshot-Inner Viewer-View Images
-![Screenshot-](screenshots/Screenshot-Inner Viewer-View-Images.png)
+![Screenshot-](screenshots/Screenshot-Inner-Viewer-View-Images.png)
 ---
 ## Screenshot-Screenshot-Preference-MISC
 ![Screenshot-](screenshots/Screenshot-Preference-MISC.png)
