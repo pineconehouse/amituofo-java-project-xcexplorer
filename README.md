@@ -15,7 +15,7 @@ You can download the last release [HERE](https://github.com/pineconehouse/amituo
  + Hitachi Content Platform for Cloud Scale (HCP-CS)
  + HCP Metadata Query Engine (MQE)
  + Amazon S3 Storage
- + S3 Compatible Storage Cloud Service(OSS)
+ + S3 Compatible Storage Cloud Service(OSS) (Inclued ISP：阿里云对象存储，腾讯COS，华为OSS，百度BOS，网易NOS，青云，七牛云，金山KS3)
  + S3 Compatible Storage
  + Microsoft Azure Blob Storage
  + Microsoft Azure Data Lake Gen2
