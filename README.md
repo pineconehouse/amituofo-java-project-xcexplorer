@@ -3,11 +3,10 @@ The design goal is a tool that can access, manage and connect any file system as
 Support online view, online editing, directory comparison, cache acceleration, directory size statistics, and so on a series of functions
 This tools is still under development and will support more file system interfaces in the future, Another automatic incremental file synchronization service will be marged soon.
 
+This program was written by java/swing and can executed in windows/linux/mac that any OS with at least java 1.8 installed.
 You can download the last release [here](https://github.com/pineconehouse/amituofo-java-project-xcexplorer/releases/new)
 
-```
 ***If you find any bugs or desired features, I would be very glad to hear your voice***
-```
 
 ## Support File System - so far
 ```
