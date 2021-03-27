@@ -1,7 +1,7 @@
 # X Content Explorer
-The design goal is a tool that can access, manage and connect any file system as a simple data management software. The transmission of file is not limited to local disk, but can be carried out directly between various file systems.
+The design goal is a tool that can access, manage and connect any file system for simple data/system management and migration software. The transmission of files are not limited to local disk, but can be carried out directly between various file systems.
 Support online view, online editing, directory comparison, cache acceleration, directory size statistics, and so on a series of functions
-This tools is still under development and will support more file system interfaces in the future, Another automatic incremental file synchronization service will be merged soon.
+This tools is still in developing and will support more file system interfaces and functions in the future, Another automatic incremental file synchronization service will be merged soon.
 
 This program was written by java/swing and can executed in windows/linux/mac that any OS with at least java 1.8 installed.
 
