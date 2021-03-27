@@ -7,7 +7,7 @@ This program was written by java/swing and can executed in windows/linux/mac tha
 
 You can download the last release [HERE](https://github.com/pineconehouse/amituofo-java-project-xcexplorer/releases)
 
-***If you find any bugs or desired features, I would be very glad to hear your voice***
+***Mail to xcexplorer@outlook.com if you find any bug or desired features, I would be very glad to hear your voice***
 
 ## Support File System - so far
 
