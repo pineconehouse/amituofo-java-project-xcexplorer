@@ -20,6 +20,7 @@ You can download the last release [HERE](https://github.com/pineconehouse/amituo
  + Microsoft Azure Blob Storage
  + Microsoft Azure Data Lake Gen2
  + Backblaze B2 Cloud Storage [***Private Functionality Supported***]
+ + Hadoop Distributed File System (DHFS)
  + File Transfer Protocol (FTP)
  + SSH File Transfer Protocol (SFTP)
  + Common Internet File System (CIFS/SMB) (Windows Share Folder)
